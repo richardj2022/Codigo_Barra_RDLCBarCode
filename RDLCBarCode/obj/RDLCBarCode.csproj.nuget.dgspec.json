@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj": {}
+  },
+  "projects": {
+    "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj",
+        "projectName": "RDLCBarCode",
+        "projectPath": "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj",
+        "packagesPath": "C:\\Users\\devRichard\\.nuget\\packages\\",
+        "outputPath": "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\RDLCBarCode\\RDLCBarCode\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Archivo de Programas\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\devRichard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "BarcodeLib": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
+              "target": "Package",
+              "version": "[150.1586.0, )"
+            },
+            "Microsoft.SqlServer.Types": {
+              "target": "Package",
+              "version": "[160.1000.6, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.0-preview.5.23280.5, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

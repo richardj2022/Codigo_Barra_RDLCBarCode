@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "q/wByFHLLmd0aqE0j+NQhv9v7DqznPQu3IPsw1qGqZzkrmiTAuhtwd3iDwFasaCzT97buTaG3sH+k51MWjWmWA==",
+  "success": true,
+  "projectFilePath": "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devRichard\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\devRichard\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\devRichard\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1586.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1586.0.nupkg.sha512",
+    "C:\\Users\\devRichard\\.nuget\\packages\\microsoft.sqlserver.types\\160.1000.6\\microsoft.sqlserver.types.160.1000.6.nupkg.sha512",
+    "C:\\Users\\devRichard\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\devRichard\\.nuget\\packages\\system.drawing.common\\8.0.0-preview.5.23280.5\\system.drawing.common.8.0.0-preview.5.23280.5.nupkg.sha512",
+    "C:\\Users\\devRichard\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\devRichard\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\devRichard\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\devRichard\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\devRichard\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\devRichard\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\devRichard\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
