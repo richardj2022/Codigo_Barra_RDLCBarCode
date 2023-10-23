@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj": {}
+    "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\Codigo_Barra_C#_RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj": {}
   },
   "projects": {
-    "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj": {
+    "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\Codigo_Barra_C#_RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj",
+        "projectUniqueName": "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\Codigo_Barra_C#_RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj",
         "projectName": "RDLCBarCode",
-        "projectPath": "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj",
+        "projectPath": "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\Codigo_Barra_C#_RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj",
         "packagesPath": "C:\\Users\\devRichard\\.nuget\\packages\\",
-        "outputPath": "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\RDLCBarCode\\RDLCBarCode\\obj\\",
+        "outputPath": "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\Codigo_Barra_C#_RDLCBarCode\\RDLCBarCode\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

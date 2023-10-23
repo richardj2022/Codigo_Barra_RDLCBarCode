@@ -30,6 +30,7 @@ namespace RDLCBarCode
             pintureboxcode.Image = img;
             //en un panel
             //pan_barcode.BackgroundImage = img;
+            //
             this.appDataRG1.Clear();
 
             using (MemoryStream ms = new MemoryStream())

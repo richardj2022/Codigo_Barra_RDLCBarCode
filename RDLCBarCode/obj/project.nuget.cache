@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q/wByFHLLmd0aqE0j+NQhv9v7DqznPQu3IPsw1qGqZzkrmiTAuhtwd3iDwFasaCzT97buTaG3sH+k51MWjWmWA==",
+  "dgSpecHash": "TU61GLcy32355o3V9HBYVrYCcFgr5zGZRJ21r0DtwZbknWUyfPHIXz4kBhpju0MhTR4O6+uYcFhrb2MezmxQQw==",
   "success": true,
-  "projectFilePath": "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj",
+  "projectFilePath": "E:\\DESARROLLO\\PROYECTOS_PRACTICAS\\Codigo_Barra_C#_RDLCBarCode\\RDLCBarCode\\RDLCBarCode.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\devRichard\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
     "C:\\Users\\devRichard\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
